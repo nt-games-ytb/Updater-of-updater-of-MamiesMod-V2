@@ -1,0 +1,19 @@
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\bin\Debug\Updater of updater 2.exe.config
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\bin\Debug\Updater of updater 2.exe
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\bin\Debug\Updater of updater 2.pdb
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater of updater 2.csprojAssemblyReference.cache
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater_of_updater_2.Form1.resources
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater_of_updater_2.Properties.Resources.resources
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater of updater 2.csproj.GenerateResource.cache
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater of updater 2.exe
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\obj\Debug\Updater of updater 2.pdb
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\bin\Debug\Updater of updater 2.exe.config
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\bin\Debug\Updater of updater 2.exe
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\bin\Debug\Updater of updater 2.pdb
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater of updater 2.csproj.AssemblyReference.cache
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater_of_updater_2.Form1.resources
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater_of_updater_2.Properties.Resources.resources
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater of updater 2.csproj.GenerateResource.cache
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater of updater 2.csproj.CoreCompileInputs.cache
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater of updater 2.exe
+G:\Jeux\Minecraft\BACKUP TORONK\Minecraft\Wii U\TOUT LES MODS MINECRAFT\MamiesMod\Updater of updater 2\Pour github\MamiesMod V2 Updater of updater\obj\Debug\Updater of updater 2.pdb
